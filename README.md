@@ -77,6 +77,16 @@ cv2.destroyAllWindows()
 
 # Demo output
 
+<p float="left">
+  <img src="demo 1.png" width="400" />
+  <img src="demo 2.png" width="400" /> 
+  <img src="demo 3.png" width="400" />
+  <img src="demo 4.png" width="400" />
+  <img src="5.png" width="400" />
+  <img src="6.png" width="400" />
+  <img src="7.png" width="400" />
+</p>
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
